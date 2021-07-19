@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+### This is Camilo kosniowski
+
+Welcome to my Github page!
 
 I am a Junior Front end developer, with knowledge in Javascript, ReactJs, and Sass. 
+
+
 
 ### Tech & Tools Preference
 
@@ -21,4 +26,14 @@ I am a Junior Front end developer, with knowledge in Javascript, ReactJs, and Sa
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kosniowski)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camilokosniowski/)
+
+
+
+
+
 
