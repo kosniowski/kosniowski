@@ -15,9 +15,9 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on **Sohenca Design**
-- 🌱 I’m currently learning ... **Unit testin**
+- 🌱 I’m currently learning ... **Unit testing**
 - 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
+- 😄 Employement ... **Open for Junior Front End opportunities**
 - ⚡ Fun fact ... **Photography**❤
 - 📫 How to reach me **camilokosniowski@gmail.com**
 ---
