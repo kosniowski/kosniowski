@@ -14,7 +14,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on **Sohenca Design**
+- 🔭 I’m currently working on **Uniminuto (as Database manager) and Sohenca Design (as Ux designer)**
 - 🌱 I’m currently learning ... **Unit testing**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for Junior Front End opportunities**
