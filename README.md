@@ -19,7 +19,7 @@
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for Junior Front End opportunities**
 - ⚡ Fun fact ... **Photography**❤
-- 📫 How to reach me **camilokosniowski@gmail.com**
+- 📫 How to reach me **camilomarquez1988@gmail.com**
 ---
 <h3 align="center">Skills & Tools Preference</h3>
 
