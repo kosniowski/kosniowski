@@ -8,7 +8,7 @@
 
 <h3 align="center">Welcome to my Github page!</h3>
 
-<h3 align="center">I am a Junior Front end developer, with knowledge in Javascript, ReactJs, and Sass. </h3>
+<h3 align="center">I am a Front end developer, with knowledge in Javascript, ReactJs, and Sass. </h3>
 
 ---
 
